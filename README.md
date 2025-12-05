@@ -1,5 +1,5 @@
 # sap-abap-stock-project
-# SAP ABAP Stock Management  
+# SAP ABAP Mini Project – Material & Stock Management System
 
 ## Project Overview
 This project contains SAP ABAP programs developed to manage
