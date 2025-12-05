@@ -1,5 +1,5 @@
 # sap-abap-stock-project
-# SAP ABAP Stock Management Reports
+# SAP ABAP Stock Management  
 
 ## Project Overview
 This project contains SAP ABAP programs developed to manage
